@@ -6,3 +6,10 @@ int main (void) {
     printf("%p\n", a);
     printf("%p, %p, %p\n", a[0], a[1], a[2]);
 }
+/*
+è stato specificato enum ma non lo useremo 
+
+typedef serve a rinomare un tipo 
+ad esempio: typedef char [] ...(qui manca)
+
+*/
