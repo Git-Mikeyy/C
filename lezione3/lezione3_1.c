@@ -10,7 +10,7 @@ int main (void){
     }
 
     for (int i = 0; i<dim ; i++){
-        print ("%d\n", cifre[i]);
+        printf ("%d\n", cifre[i]);
     }
 
     return 0;
