@@ -46,3 +46,5 @@ se i parametri non ci sono si mette (Void) oppure ()
 dichiarazioni di funzioni e costanti.
 posso dichiarare un file come a.h e riusarlo in un'altro file facendo #include a.h
 */
+
+//Successivamente nella stessa directory troverai un esempio di programmazione modulare!!!
